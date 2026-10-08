@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ip-reputation": {
+      "command": "uv",
+      "args": ["run", "--script", "ip_reputation_server.py"]
+    }
+  }
+}
